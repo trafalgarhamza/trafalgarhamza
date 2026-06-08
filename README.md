@@ -9,6 +9,5 @@
 - 🤔 I’m looking for help with official documentation;
 - 💬 Ask me about whatever you want, i will do my best to answer;
 - 📫 How to reach me: hamzajabar1999@gmail.com
-- 😄 Pronouns: hamza
 - ⚡ Skills: english, math, html, css, js basics react and python... 
 
